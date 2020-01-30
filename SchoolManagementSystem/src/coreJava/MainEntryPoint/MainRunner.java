@@ -10,7 +10,7 @@ import coreJava.Models.Student;
 
 import java.util.List;
 import java.util.Scanner;
-
+// main runner
 public class MainRunner {
     public static void main(String[] args) {
         System.out.println("Are you a(n)");
